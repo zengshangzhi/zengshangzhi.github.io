@@ -14,7 +14,7 @@ Review papers
 
 - Risheng Liu, Yaohua Liu, Shangzhi Zeng, and Jin Zhang, Augmenting Iterative Trajectory for Bilevel Optimization: Methodology, Analysis and Extensions, arXiv preprint arXiv:2303.16397, 2023.
 
--Dong Wang, Shangzhi Zeng and Jin Zhang, A modularized algorithmic framework for interface related optimization problems using characteristic functions, arXiv preprint arXiv:2206.01876, 2022. 
+- Dong Wang, Shangzhi Zeng and Jin Zhang, A modularized algorithmic framework for interface related optimization problems using characteristic functions, arXiv preprint arXiv:2206.01876, 2022. 
 
 
 Selected papers
