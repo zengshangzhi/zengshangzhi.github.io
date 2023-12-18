@@ -21,6 +21,8 @@ My broad research area is comprised of optimization theory and numerical methods
 - Convergence analysis of optimization methods via variational analysis
 - Bilevel programs and their applications in machine learning
 
+[Publications](https://zengshangzhi.github.io/publications/)
+
 <br><br>
 
 Research experience and Education
