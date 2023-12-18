@@ -15,7 +15,7 @@ I am currently a postdoctoral research fellow in the [Department of Mathematics 
 
 Research Areas
 ======
-My broad research area is comprised of optimization theory and numerical methods. My primary areas of research expertise are organized into the following categories:
+My broad research area is comprised of optimization theory and numerical methods. My primary areas of research are organized into the following categories:
 
 - Convergence analysis of optimization methods via variational analysis
 - Bilevel programs and their applications in machine learning
