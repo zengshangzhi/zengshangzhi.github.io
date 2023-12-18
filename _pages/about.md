@@ -12,6 +12,7 @@ I am currently a postdoctoral research fellow in the [Department of Mathematics 
 
 [Email](mailto:zengshangzhi@uvic.ca)/[Google Scholar](https://scholar.google.com/citations?user=rzIzb6cAAAAJ&hl)
 
+<br><br>
 
 Research Areas
 ======
@@ -20,6 +21,7 @@ My broad research area is comprised of optimization theory and numerical methods
 - Convergence analysis of optimization methods via variational analysis
 - Bilevel programs and their applications in machine learning
 
+<br><br>
 
 Research experience and Education
 ======
