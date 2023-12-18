@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a postdoctoral research fellow in the [Department of Mathematics and Statistics](https://www.uvic.ca/science/math-statistics/index.php) at the [University of Victoria](https://www.uvic.ca), working under the supervision of [Professor Jane Juanjuan Ye](https://www.math.uvic.ca/faculty/janeye/). I received my Bachelor's degree in Mathematics and Applied Mathematics from [Wuhan University](https://en.whu.edu.cn) in 2015. Subsequently, I obtained my MPhil degree from [Hong Kong Baptist University](https://www.hkbu.edu.hk) in 2017 and completed my PhD at [the University of Hong Kong](https://www.hku.hk) in 2021, under the supervision of [Professor Xiaoming Yuan](https://hkumath.hku.hk/~xmyuan/). During my postdoctoral from 2021 to 2023, I was supported by the PIMS (Pacific Institute for the Mathematical Sciences) Post-doctoral Fellowship.
+
+[Email](mailto:zengshangzhi@uvic.ca)/[Google Scholar](https://scholar.google.com/citations?user=rzIzb6cAAAAJ&hl)
 
 A data-driven personal website
 ======
