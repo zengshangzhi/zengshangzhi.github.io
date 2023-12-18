@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shangzhi Zeng (曾尚志)"
+  name             : "Shangzhi Zeng <br> (曾尚志)"
   avatar           : "profile.png"
   bio              : "Postdoc, University of Victoria"
   location         : "Victoria, BC"
