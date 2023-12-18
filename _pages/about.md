@@ -24,8 +24,11 @@ My broad research area is comprised of optimization theory and numerical methods
 Research experience and Education
 ======
 2021/10 - present, Postdoc, Department of Mathematics and Statistics, University of Victoria.
+
 2021/08, PhD, Department of Mathematics, The University of Hong Kong.
+
 2017/10, MPhil, Department of Mathematics, Hong Kong Baptist University.
+
 2015/06, BSc in Mathematics and Applied Mathematics, Wuhan University.
 
 
