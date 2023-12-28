@@ -8,6 +8,9 @@ My co-authored works always list the authors in the alphabetical order of their 
 
 Review papers
 ----------
+
+- Xinming Yang, Wei Yao, Haian Yin, Shangzhi Zeng and Jin Zhang, Gradient-based Algorithms for Multi-Objective Bi-Level Optimization, preprint, 2023.
+
 - Kuang Bai, Jane J. Ye, Shangzhi Zeng, Optimality conditions for bilevel programs via Moreau enve- lope reformulation, arXiv preprint arXiv:2311.14857, 2023.
 
 - Lucy Gao, Jane J. Ye, Haian Yin, Shangzhi Zeng and Jin Zhang, Moreau Envelope Based Difference- of-weakly-Convex Reformulation and Algorithm for Bilevel Programs, arXiv preprint arXiv:2306.16761, 2023.
